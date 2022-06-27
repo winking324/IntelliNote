@@ -39,5 +39,6 @@
 
 * [Vditor](https://github.com/Vanessa219/vditor) 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript 以及 Vue、React、Angular 和 Svelte 等框架；
 * [vscode-office](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office) 是 VSCode 一个预览文件的插件；
+* [Flomo](https://help.flomoapp.com/)《卡片笔记写做法》推荐的一款笔记工具；
 
 
