@@ -19,6 +19,7 @@
 - 标签系统
   - 自动标签，例如在某个目录下，则自动具有该目录的标签
   - 路径式标签，例如 `Vos/Web`
+  - [如何用 I.A.R.P 规划标签](https://help.flomoapp.com/thinking/iarp.html)
 - 采用文本式？还是 Block 式？
   - 参考 [verse](https://verse.app.yinxiang.com/product/) 是一种很不错的想法
 - 快捷键小窗口快速记录闪念想法
